@@ -29,6 +29,6 @@ Backend Developer focused on scalable systems, APIs and modern web applications.
 - Automation systems
 
 ## Contact
-- LinkedIn: your-linkedin
-- Portfolio: your-portfolio
-- GitHub: your-github
+- LinkedIn: [oscardavidop](https://www.linkedin.com/in/oscardavidop/)
+- Portfolio: https://oscarortiz.me
+- GitHub: [oscardavidop](https://github.com/oscardavidop)
