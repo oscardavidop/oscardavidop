@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Oscar Ortiz 👋
 
-<!--
-**oscardavidop/oscardavidop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on scalable systems, APIs and modern web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- NestJS
+- TypeScript
+- React
+- Next.js
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- CRMs
+- Admin Panels
+- Dashboards
+- Payment Systems
+- APIs
+- Automations
+- Bots
+
+## Currently Working On
+- Scalable backend architectures
+- Payment integrations
+- Internal SaaS tools
+- Automation systems
+
+## Contact
+- LinkedIn: your-linkedin
+- Portfolio: your-portfolio
+- GitHub: your-github
