@@ -44,8 +44,6 @@ I focus on turning complex business requirements into clean, maintainable and pr
 
 ## 🧩 Featured Work
 
-> Replace these with real repos/projects (this is VERY important)
-
 - 🔐 Payment system with webhooks + idempotency (exactly-once processing)
 - ⚙️ CRM / admin panel with role-based access control (RBAC)
 - 📡 API gateway with authentication + rate limiting
